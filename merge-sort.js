@@ -57,8 +57,8 @@ const printArray = ( A, size) => {
 };
  
  
-var arr = [ 12, 11, 13, 5, 6, 7 ];
-var arr_size = arr.length;
+const arr = [ 12, 11, 13, 5, 6, 7 ];
+const arr_size = arr.length;
 console.log(  "Given array is ");
 printArray(arr, arr_size);
 
